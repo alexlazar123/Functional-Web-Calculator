@@ -39,7 +39,7 @@ Since it's a single HTML file, you have two easy options:
 
 ### Option 2: Using GitHub Pages (recommended)
 Just visit the live demo:  
-**[https://YOUR-USERNAME.github.io/calculator](https://YOUR-USERNAME.github.io/calculator)**
+**[https://YOUR-USERNAME.github.io/calculator]([https://YOUR-USERNAME.github.io/calculator](https://fabulous-cannoli-053b08.netlify.app/))**
 
 *(Replace YOUR-USERNAME with your actual GitHub username)*
 

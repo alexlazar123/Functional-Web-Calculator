@@ -45,7 +45,7 @@ Just visit the live demo:
 
 ## 📸 Preview
 
-![Calculator Preview](<img width="496" height="838" alt="calc preview" src="https://github.com/user-attachments/assets/aac7a357-ea10-4fea-80da-e9f8a449e5bb" />)
+![Calculator Preview](file:///C:/Users/%60Alex/Pictures/calc%20preview.png)
 
 *(Replace the link above with a real screenshot after you upload one to your repo)*
 

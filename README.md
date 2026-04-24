@@ -45,7 +45,7 @@ file:///C:/Users/%60Alex/Desktop/New%20folder/Calculator.html
 
 ## 📸 Preview
 
-![Calculator Preview](file:///C:/Users/%60Alex/Pictures/calc%20preview.png)
+![Calculator Preview](file:///C:/Users/%60Alex/Downloads/calc%20preview.png)
 
 *(Replace the link above with a real screenshot after you upload one to your repo)*
 

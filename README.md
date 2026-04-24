@@ -50,8 +50,3 @@ file:///C:/Users/%60Alex/Desktop/New%20folder/Calculator.html
 *(Replace the link above with a real screenshot after you upload one to your repo)*
 
 ---
-
-**Made by Alex Lazar** — 19-year-old self-taught developer from the UK.  
-Currently learning web development and preparing for Computer Science / Software Engineering university applications.
-
-Feel free to fork it, improve it, or use it as inspiration for your own projects!

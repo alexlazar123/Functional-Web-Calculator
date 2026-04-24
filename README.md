@@ -37,9 +37,7 @@ Just download the repo and open `index.html` in your browser.
 
 ## 📸 Preview
 
-![Calculator Preview](./preview.png)
-
-*(Change the filename if you named your screenshot something different)*
+![Calculator Preview](https://drive.google.com/uc?id=1uv0E0pk80ru9IB8_-MgVdn0FQtIBW5Hp)
 
 ---
 

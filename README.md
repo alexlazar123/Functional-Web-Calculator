@@ -29,8 +29,8 @@ The hardest part was getting the actual buttons working properly. I wanted it to
 
 ## 🚀 Running the Project
 
-Click the link below to run the project.
-- Netlify: [https://fabulous-cannoli-053b08.netlify.app/](https://fabulous-cannoli-053b08.netlify.app/)
+To run the project,click the link below:
+[https://fabulous-cannoli-053b08.netlify.app/](https://fabulous-cannoli-053b08.netlify.app/)
 
 ## 📸 Preview
 
